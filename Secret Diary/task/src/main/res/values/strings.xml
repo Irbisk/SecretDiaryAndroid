@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Secret Diary</string>
+    <string name="dear_diary">Dear Diary...</string>
+    <string name="save">Save</string>
+    <string name="undo">Undo</string>
+    <string name="undo_message">Do you really want to remove the last writing? This operation cannot be undone!</string>
+    <string name="secret_diary">Secret Diary</string>
+    <string name="wrong_pin">Wrong PIN!</string>
+</resources>
